@@ -1,0 +1,5 @@
+{
+  "github.copilot.chat.generateTests.codeLens": true,
+  "github.copilot.chat.search.semanticTextResults": true,
+  "github.copilot.chat.editor.temporalContext.enabled": true
+}
